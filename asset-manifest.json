@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MajorMiner/static/css/main.dc8fc27e.chunk.css",
+    "main.js": "/MajorMiner/static/js/main.a078cd12.chunk.js",
+    "main.js.map": "/MajorMiner/static/js/main.a078cd12.chunk.js.map",
+    "runtime-main.js": "/MajorMiner/static/js/runtime-main.fb830d14.js",
+    "runtime-main.js.map": "/MajorMiner/static/js/runtime-main.fb830d14.js.map",
+    "static/js/2.6ead2669.chunk.js": "/MajorMiner/static/js/2.6ead2669.chunk.js",
+    "static/js/2.6ead2669.chunk.js.map": "/MajorMiner/static/js/2.6ead2669.chunk.js.map",
+    "index.html": "/MajorMiner/index.html",
+    "precache-manifest.d87bfe8caeb5be4b6e159b9f76e43755.js": "/MajorMiner/precache-manifest.d87bfe8caeb5be4b6e159b9f76e43755.js",
+    "service-worker.js": "/MajorMiner/service-worker.js",
+    "static/css/main.dc8fc27e.chunk.css.map": "/MajorMiner/static/css/main.dc8fc27e.chunk.css.map",
+    "static/media/Accordion.css": "/MajorMiner/static/media/Summary.3326781d.jpg",
+    "static/media/MajorMinerHeaderLogo.png": "/MajorMiner/static/media/MajorMinerHeaderLogo.0cebf6b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb830d14.js",
+    "static/js/2.6ead2669.chunk.js",
+    "static/css/main.dc8fc27e.chunk.css",
+    "static/js/main.a078cd12.chunk.js"
+  ]
+}
