@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Major--Miner/static/css/main.3e0b6a7e.chunk.css",
-    "main.js": "/Major--Miner/static/js/main.b9d9ce68.chunk.js",
-    "main.js.map": "/Major--Miner/static/js/main.b9d9ce68.chunk.js.map",
+    "main.css": "/Major--Miner/static/css/main.e77d4b3f.chunk.css",
+    "main.js": "/Major--Miner/static/js/main.e9cb9726.chunk.js",
+    "main.js.map": "/Major--Miner/static/js/main.e9cb9726.chunk.js.map",
     "runtime-main.js": "/Major--Miner/static/js/runtime-main.63dc982f.js",
     "runtime-main.js.map": "/Major--Miner/static/js/runtime-main.63dc982f.js.map",
     "static/js/2.5ace1c32.chunk.js": "/Major--Miner/static/js/2.5ace1c32.chunk.js",
     "static/js/2.5ace1c32.chunk.js.map": "/Major--Miner/static/js/2.5ace1c32.chunk.js.map",
     "index.html": "/Major--Miner/index.html",
-    "precache-manifest.6a4fe2afe29cd3c62af851a9873e4c44.js": "/Major--Miner/precache-manifest.6a4fe2afe29cd3c62af851a9873e4c44.js",
+    "precache-manifest.95e82bf5371f8ce50ae17715c433c85e.js": "/Major--Miner/precache-manifest.95e82bf5371f8ce50ae17715c433c85e.js",
     "service-worker.js": "/Major--Miner/service-worker.js",
-    "static/css/main.3e0b6a7e.chunk.css.map": "/Major--Miner/static/css/main.3e0b6a7e.chunk.css.map",
+    "static/css/main.e77d4b3f.chunk.css.map": "/Major--Miner/static/css/main.e77d4b3f.chunk.css.map",
     "static/media/Accordion.css": "/Major--Miner/static/media/Summary.3326781d.jpg",
     "static/media/MajorMinerHeaderLogo.png": "/Major--Miner/static/media/MajorMinerHeaderLogo.0cebf6b2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.63dc982f.js",
     "static/js/2.5ace1c32.chunk.js",
-    "static/css/main.3e0b6a7e.chunk.css",
-    "static/js/main.b9d9ce68.chunk.js"
+    "static/css/main.e77d4b3f.chunk.css",
+    "static/js/main.e9cb9726.chunk.js"
   ]
 }
